@@ -6,3 +6,7 @@
 
 - 添加文档结构
 - 添加 React-hooks 分析
+
+`2020-12-08`
+
+- 补充 requestIdleCallback
